@@ -22,4 +22,8 @@
 #### Coding Exercise 11: Equality Printer
 #### Coding Exercise 12: Playing Cat
 
+### CodingExercise3
+#### Coding Exercise 13: Number In Word
+#### Coding Exercise 14: Number Of Days In Month
+
 
