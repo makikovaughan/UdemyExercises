@@ -26,4 +26,16 @@
 #### Coding Exercise 13: Number In Word
 #### Coding Exercise 14: Number Of Days In Month
 
+### CodingExercise4/LoopExercise
+#### Coding Exercise 15: Sum Odd
+#### Coding Exercise 16: Number Palindrome
+#### Coding Exercise 17: First And Last Digit Sum
+#### Coding Exercise 18: Even Digit Sum
+#### Coding Exercise 19: Shared Digit
+#### Coding Exercise 20: Last Digit Checker
+#### Coding Exercise 21: All Factors
+#### Coding Exercise 22: Greatest Common Divisor
+#### Coding Exercise 23: Perfect Number
+#### Coding Exercise 24: Number To Words
+
 
