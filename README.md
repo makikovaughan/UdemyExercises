@@ -38,4 +38,13 @@
 #### Coding Exercise 23: Perfect Number
 #### Coding Exercise 24: Number To Words
 
+### CodingExercise5
+#### Coding Exercise 25: Flour Pack Problem
+#### Coding Exercise 26: Largest Prime
+#### Coding Exercise 27: Diagonal Star
+
+### CodingExercise 6
+#### Coding Exercise 28: Input Calculator
+#### Coding Exercise 29: Paint Job
+
 
