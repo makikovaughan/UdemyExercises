@@ -47,4 +47,14 @@
 #### Coding Exercise 28: Input Calculator
 #### Coding Exercise 29: Paint Job
 
+### CodingExercise 7
+#### Coding Exercise 30: Sum Calculator
+#### Coding Exercise 31: Person
+
+### CodingExercise 8
+#### Coding Exercise 32: Wall Area
+#### Coding Exercise 33: Point
+#### Coding Exercise 34: Carpet Cost Calculator
+#### Coding Exercise 35: Complex Operations
+
 
