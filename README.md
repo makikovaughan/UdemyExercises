@@ -54,7 +54,7 @@
 ### CodingExercise 8
 #### Coding Exercise 32: Wall Area
 #### Coding Exercise 33: Point
-#### Coding Exercise 34: Carpet Cost Calculator
+#### Coding Exercise 34: Carpet Cost Calculator(Carpet.java, Floor.java, & Calculator.java)
 #### Coding Exercise 35: Complex Operations
 
 
