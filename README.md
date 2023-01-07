@@ -57,4 +57,10 @@
 #### Coding Exercise 34: Carpet Cost Calculator(Carpet.java, Floor.java, & Calculator.java)
 #### Coding Exercise 35: Complex Operations
 
+### CodingExercise 9
+#### Coding Exercise 36: Cylinder
+#### Coding Exercise 37: Pool Area
+
+### CodingExercise 10
+#### Coding Exercise 38: Composition
 
