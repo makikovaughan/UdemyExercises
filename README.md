@@ -58,8 +58,8 @@
 #### Coding Exercise 35: Complex Operations
 
 ### CodingExercise 9
-#### Coding Exercise 36: Cylinder
-#### Coding Exercise 37: Pool Area
+#### Coding Exercise 36: Cylinder(Circle.java and Cylinder.java)
+#### Coding Exercise 37: Pool Area(Rectangle.java & Cuboid.java)
 
 ### CodingExercise 10
 #### Coding Exercise 38: Composition
