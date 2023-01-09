@@ -64,3 +64,8 @@
 ### CodingExercise 10
 #### Coding Exercise 38: Composition
 
+### CodingExercise 11
+#### Coding Exercise 39: Encapsulation
+
+### CodingExercise 12
+#### Coding Exercise 40: Polymorphism
