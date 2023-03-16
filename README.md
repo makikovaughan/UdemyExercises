@@ -69,3 +69,6 @@
 
 ### CodingExercise 12
 #### Coding Exercise 40: Polymorphism
+
+### CodingExercise 13
+#### Coding Exercise 41: Bill's Burgers
